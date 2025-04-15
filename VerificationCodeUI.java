@@ -64,7 +64,7 @@ public class VerificationCodeUI {
         
         // Code input fields panel
         JPanel codeFieldsPanel = new JPanel();
-        codeFieldsPanel.setLayout(new FlowLayout(FlowLayout.CENTER, 10, 0));
+        codeFieldsPanel.setLayout(new FlowLayout(FlowLayout.CENTER, 10, 15));
         codeFieldsPanel.setOpaque(false);
         codeFieldsPanel.setAlignmentX(Component.CENTER_ALIGNMENT);
         
